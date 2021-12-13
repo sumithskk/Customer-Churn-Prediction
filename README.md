@@ -15,16 +15,5 @@ Telecom Dataset - The sample data tracks a telecommunications company. It includ
 ![churn_percentage](https://user-images.githubusercontent.com/42634704/144177383-eda08cee-79b5-4054-bc49-5259eea88880.png)
 
 ## Modelling
-* EDA - Split the attributes into multiple categories : DEMOGRAPHIC FEATURES,SERVICE FEATURES,PAYMENT FEATURES
-* Used pycaret classification for modelling (Easy to use: Compared with sklearn models)
+* EDA - Split the attributes into multiple categories : DEMOGRAPHIC FEATURES,SERVICE FEATURES,PAYMENT FEATURE
 * Used metrics - F1 Score
-
-## Setup -Pycaret
-* Install Pycaret Package on Anaconda environment
-
-          #create a conda environment
-          conda create --name yourenvname python=3.6
-          #activate environment
-          conda activate yourenvname
-          #install pycaret
-          pip install pycaret
