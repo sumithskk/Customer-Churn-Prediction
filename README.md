@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-Pycaret
+# Customer-Churn-Prediction
 ## What is Customer Churn ?
 ![churn](https://user-images.githubusercontent.com/42634704/144177098-0fc20a64-4e28-42c7-8fc5-895c27eaf9f5.png)
 Customer churn (or customer attrition) is a tendency of customers to abandon a brand and stop being a paying client of a particular business. 
